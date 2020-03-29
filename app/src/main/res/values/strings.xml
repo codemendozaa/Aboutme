@@ -3,6 +3,7 @@
     <string name="text_view">Erix Mendoza</string>
     <string name="men_star">Men star</string>
     <string name="bio">Hi, my name is Erix.
+
 \n\nI love fish.
 \n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
 \nFun fact is that I have several aquariums and also a river.
@@ -17,4 +18,6 @@
         \n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
 \n\nI\'ll be happy to teach you how to make your own aquarium.
 \nYou should ask someone else about fishing, though.\n\n</string>
+    <string name="name_edit">What is your name?</string>
+    <string name="done">done</string>
 </resources>
